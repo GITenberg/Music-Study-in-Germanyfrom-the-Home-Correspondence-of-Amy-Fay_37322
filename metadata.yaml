@@ -1,0 +1,38 @@
+_repo: Music-Study-in-Germanyfrom-the-Home-Correspondence-of-Amy-Fay_37322
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37322-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fay, Amy
+    birthdate: 1844
+    deathdate: 1928
+    gutenberg_agent_id: '38771'
+    url: http://www.gutenberg.org/2009/agents/38771
+  editor:
+    agent_name: Peirce, Fay
+    aliases:
+    - Peirce, Melusina Fay
+    - Peirce, M. Fay (Melusina Fay)
+    birthdate: 1836
+    gutenberg_agent_id: '38772'
+    url: http://www.gutenberg.org/2009/agents/38772
+description: ''
+gutenberg_issued: '2011-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fay, Amy, 1844-1928'
+- !lcsh 'Music -- Instruction and study -- Germany'
+- !lcsh 'Pianists -- United States -- Correspondence'
+- !lcc 'ML'
+- !lcsh 'Music -- Germany'
+- !lcsh 'Germany -- Social life and customs'
+title: Music-Study in Germany, from the Home Correspondence of Amy Fay
+url: http://www.gutenberg.org/ebooks/37322
